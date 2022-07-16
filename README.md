@@ -4,7 +4,7 @@ Actions.
 
 <a href="https://github.com/rafaltecza/github-stats">
 
-![](https://raw.githubusercontent.com/rafaltecza/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rafaltecza/github-stats-transparent/output/generated/languages.svg)
+![](https://github.com/rafaltecza/github-stats/blob/output/generated/overview.svg)
+![](https://github.com/rafaltecza/github-stats/blob/output/generated/languages.svg)
 
 </a>
